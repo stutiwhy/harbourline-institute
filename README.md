@@ -218,7 +218,7 @@ what the session inspector explains:
 4. open a terminal in the project folder:
 
 ```
-cd c:\users\welcome\downloads\files
+cd c:\users\stu\downloads\harbourline-institute
 php setup.php
 php -S localhost:8000
 ```
